@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "857175453836",
+    "firebase_url": "https://baston-inteligente-app-default-rtdb.firebaseio.com",
+    "project_id": "baston-inteligente-app",
+    "storage_bucket": "baston-inteligente-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857175453836:android:95911689aa670fba1b8ba9",
+        "android_client_info": {
+          "package_name": "com.example.baston_tutor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTpTKGkrwsYNBTH7LW6sIYMZA1LW39X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857175453836:android:b87cbb46feb371691b8ba9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTpTKGkrwsYNBTH7LW6sIYMZA1LW39X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
